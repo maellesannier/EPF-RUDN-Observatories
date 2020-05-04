@@ -60,10 +60,10 @@ PARAMETERS:
 STEPS:
 * Buffers are created around the existing observatories and the cities over
   city size inhabitants.
-  ![buffers observatories](Cities_and_Observatories_with_buffers.png)
+  ![buffers observatories](Images/Cities_and_Observatories_with_buffers.png)
 * The buffers are united and erased from the 3 principal layers 
   (luminous pollution, altitude, cloudiness) of the study.
-  ![buffers erased from layers](Layers_with_Erased_buffers.png)
+  ![buffers erased from layers](Images/Layers_with_Erased_buffers.png)
 * The 3 layers are normalized from 0 to 100 and then summed with coefficients entered by 
   the user in an arithmetic layer
 * The user choose how much percentage of this layer he wants to keep. It means
@@ -77,7 +77,7 @@ STEPS:
 
 QUICK VISUALIZATION:
 * See Screenshots and Flowchart contained in the repository.
-  ![Flowchart](Flowchart-finalversion.jpg)
+  ![Flowchart](Images/Flowchart-finalversion.jpg)
 
 USEFULNESS:
 * Run the code with several parameters, one can choose the minimum size 
