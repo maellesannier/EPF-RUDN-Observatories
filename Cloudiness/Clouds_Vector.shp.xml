@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="fr"><Esri><CreaDate>20200423</CreaDate><CreaTime>20443400</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Conversion Tools.tbx\RasterToPolygon" Date="20200423" Time="204434">RasterToPolygon C:/EsriTraining/ProjetRUDN\Clouds_in_France C:\EsriTraining\ProjetRUDN\Clouds_Vector.shp SIMPLIFY Value SINGLE_OUTER_PART #</Process></lineage></DataProperties></Esri></metadata>

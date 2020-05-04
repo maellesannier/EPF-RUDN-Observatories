@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="fr"><Esri><CreaDate>20200424</CreaDate><CreaTime>10091300</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Conversion Tools.tbx\RasterToPolygon" Date="20200424" Time="100913">RasterToPolygon C:/EsriTraining/ProjetRUDN\Reclass_Altitud3.tif C:\EsriTraining\ProjetRUDN\RelcassAlt_Vct.shp SIMPLIFY Value SINGLE_OUTER_PART #</Process></lineage></DataProperties></Esri></metadata>
