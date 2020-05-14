@@ -45,9 +45,7 @@ HOW TO GET STARTED:
 PARAMETERS:
 * The user have to set as inputs inside the function parameters the following parameters
 * workspace = storage space defined by the user e.g "C:/Observatories"
-* fc1 = first layer to use to create buffers : "frenchville.shp"
 * b1  = Radius Buffer in Kilometers for 1rst feature class "30 Kilometers"
-* fc2 = second layer to use to create buffers : "Observatories.shp"
 * b2  = Radius buffer in kilometers for 2nd feature class
 * citysize = We want to avoid cities over <citysize> inhabitants e.g <50000>
 * coef1 = coefficient in the weighted sum for Crit1 e.g <3>
